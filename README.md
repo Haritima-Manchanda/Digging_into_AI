@@ -1,2 +1,1 @@
-# CISC-681
-Artificial Intelligence
+# Artificial Intelligence
